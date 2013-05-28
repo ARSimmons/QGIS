@@ -1,0 +1,12 @@
+# QGIS Generated Color Map Export File
+INTERPOLATION:INTERPOLATED
+10,0,85,0,255,Color entry 1
+100,0,95,0,255,Color entry 2
+450,0,115,0,255,Color entry 3
+600,0,130,0,255,Color entry 4
+750,60,150,0,255,Color entry 5
+800,130,117,0,255,Color entry 6
+950,120,72,0,255,Color entry 7
+1000,100,60,0,255,Color entry 8
+1123.4550,80,49,0,255,Color entry 9
+-3.4028,255,255,255,255,Color entry 10
