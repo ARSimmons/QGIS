@@ -11,14 +11,14 @@
 # <a name="team-members"></a>Team Members
 * "Arielle Simmons" <ari.ucb.fire@gmail.com>
 	- Planner/GIS Specialist 
-	[PVPC](http://www.qgis.org/ "Quantum GIS")
+	[PVPC](http://www.pvpc.org/ "PVPC")
 	
 # <a name="project-summary"></a>Project Summary
 This lecture & lab practice was designed to introduce users with little to no GIS experience to using & working with GIS data in the Open Source platform QGIS.
 
 The latest download files for QGIS can be found here:
 
-* [PVPC](http://www.pvpc.org/ "PVPC")
+* [QGIS ](http://www.qgis.org/ "Quantum GIS")
 
 ![Screenshot](https://raw.github.com/ARSimmons/QGIS/master/images/QGIS_Banner.JPG)
 
